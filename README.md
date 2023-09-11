@@ -19,8 +19,9 @@ This is a simple Streamlit-based web application that generates questions based 
    ```
 
 5. The app will open in your web browser, allowing you to generate questions from the provided context and answer.
-6. ![Streamlit app]([https://github.com/rania-hossam/ST_GYWALKER_APP/blob/main/images/6.png](https://github.com/rania-hossam/Question_Generation_App/blob/master/images/Screenshot%20(85).png))
 
+
+![Streamlit app](https://github.com/rania-hossam/Question_Generation_App/blob/master/images/Screenshot%20(85).png)
 
 ## App Usage
 
